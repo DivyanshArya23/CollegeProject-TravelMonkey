@@ -7,7 +7,6 @@ src: url("Font/Trajan Pro Regular.ttf");
     visibility: visible;
 }
 
-
 .destlist {
     position: absolute;
     top: 100%;
@@ -62,6 +61,7 @@ src: url("Font/Trajan Pro Regular.ttf");
     z-index: 5;
     left: 30%;
     visibility: hidden;
+    /*    content: "Know More";*/
     transition-duration: 0.2s;
     color: maroon;
 }
